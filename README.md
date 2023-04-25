@@ -46,77 +46,20 @@ Hello! I'm a Brazilian software engineering student from the renowned PUCPR, pas
     <hr />
     
       
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=adrianovale1603&show_icons=true&bg_color=00000000" alt="Adriano's Github Stats">
     
     
-    <img align="left" alt="Coding" width="150" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif">
     
-    >  <br>If you think something could be better, fell free to clone/fork the projects, and if you run into any problems, let me know by raising some issues or submitting PRs!!! Ask me anything <a href="https://github.com/icaroLK/icaroLK/issues/new"><b>here</b></a><br>
+   <img align="left" alt="Coding" width="150" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif">
+    
+   <br>If you think something could be better, fell free to clone/fork the projects, and if you run into any problems, let me know by raising some issues or submitting PRs!!! Ask me anything <a href="https://github.com/icaroLK/icaroLK/issues/new"><b>here</b></a><br>
       
       
-    <br>
+   <br>
     <br>
     <br>
     
     
-    <hr />
-    <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=2E81EC&width=530&lines=%2F%2FEnjoy+the+show!;%2F%2FFell+free+to+come+back+always!;%2F%2FDon't+miss+out+on+my+updates!+Follow+me 😀" alt="Typing SVG" /></a>
-    <p align="right"> <img src="https://komarev.com/ghpvc/?username=icarolk&label=Profile_views&color=007dae&style=flat" alt="icarolk" /> </p><div align="center">
+   <hr />
+   <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=2E81EC&width=530&lines=%2F%2FEnjoy+the+show!;%2F%2FFell+free+to+come+back+always!;%2F%2FDon't+miss+out+on+my+updates!+Follow+me 😀" alt="Typing SVG" /></a>
 
-<p align="left">
-    <a href="[your LinkedIn profile URL]" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: Generate Snake
-
-# Controls when the action will run. This action runs every 6 hours.
-
-on:
-  schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
-
-# This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
-
-# The sequence of runs in this workflow:
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-
-    # Generates the snake  
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: mishmanners
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
-
-      # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
