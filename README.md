@@ -18,7 +18,7 @@
     
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/61a8ba1505a38d795044d7de/61aae1b7a4ba59ee6d39af82_scroll-coding.gif">
     
-Hello! I'm a Brazilian software engineering student from the renowned PUCPR, passionate about all areas of programming, from algorithms and data structures to web development. I'm always seeking new experiences to enhance my skills and meet market demands. How about we connect and share our experiences? Together we can create innovative and groundbreaking solutions in the technology field! <br>
+Hello! I'm a Brazilian software engineering student from the prestigious PUCPR, and I am passionate about all areas of programming, from algorithms and data structures to web development. I am always seeking new experiences to enhance my skills and meet the demands of the market. I am eager to learn the technologies required by it!! <br>
     
 <h3 align="left">Stuff about me:</h3>
     
