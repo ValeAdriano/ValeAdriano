@@ -38,7 +38,7 @@ Hello! I'm a Brazilian software engineering student from the prestigious PUCPR, 
     
     <h3 align="left">Connect with me:</h3>
     <p align="left">
-    <a href="https://www.linkedin.com/in/adriano-vale-filho-77b15322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="username" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/adriano-vale-77b15322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="username" height="30" width="40" /></a>
     <a href="https://twitter.com/_AdrianoVale?t=1TXDsqOZY2k5h14ZT3kfgg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="username" height="30" width="40" /></a>
     <a href="https://wa.me/5541992021603" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png" alt="username" width="40" /></a>
     </p>
