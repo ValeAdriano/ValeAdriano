@@ -25,7 +25,7 @@ Hello! I'm a Brazilian software engineering student from the prestigious PUCPR, 
 - 👨🏻‍🎓 Software Engineer student (PUCPR)
 - 🕑 18 yo
 - 💭 I'm interested in WEB development and AI
-- 📚 Currently learning Python, HTML, CSS and JavaScript
+- 📚 Currently learning Python, HTML, CSS and JavaScript, Sql, PHP
     
     
     <h3 align="left">Languages and Tools:</h3>
